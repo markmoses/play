@@ -1,3 +1,6 @@
+
+## this is just me playing around....
+
 testCorPos <- function( rho, x = NULL, shape, rate, ...) {
     
     C <- matrix(rho, nrow = 2, ncol = 2)
